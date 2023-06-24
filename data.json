@@ -1,0 +1,62 @@
+{
+    "arabica": [
+        {
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "148.000",
+            "foto": "images/produk/product_capuchino.jpg",
+            "link": "#"
+        },
+        {
+            "nama": "Espresso",
+            "size": "500 Gram",
+            "harga": "150.000",
+            "foto": "images/produk/product_espresso.jpg",
+            "link": "#"
+        },
+        {
+            "nama": "Macchiato",
+            "size": "100 Gram",
+            "harga": "200.000",
+            "foto": "images/produk/Latte_macchiat0o0.jpg",
+            "link": "#"
+        },
+        {
+            "nama": "Latte Arabica",
+            "size": "200 Gram",
+            "harga": "250.000",
+            "foto": "images/produk/product_latte.jpg",
+            "link": "#"
+        },
+        {
+            "nama": "Kopi Luwak Liar Arabica",
+            "size": "100 Gram",
+            "harga": "280.000",
+            "foto": "images/produk/Luwak Coffee.jpeg",
+            "link": "#"
+        },
+        {
+            "nama": "Signature Coffee",
+            "size": "500 Gram",
+            "harga": "199.000",
+            "foto": "images/produk/Tubruk coffee.jpeg",
+            "link": "#"
+        }
+    ],
+    "robusta": [
+        {
+            "nama": "Kopi Susu",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-aceh-robusta-gayo-natural-premium-250-gr-bubuk-kasar"
+        },
+        {
+            "nama": "Kopi Robusta ",
+            "size": "500 Gram",
+            "harga": "40.000",
+            "foto": "images/produk/cold brew coffee.jpeg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-robusta-natural-sidikalang-premium-500-gr-biji"
+        }
+    ]
+}
